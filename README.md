@@ -37,7 +37,7 @@ Here you can see initial results for the project. For more info see realted publ
 We use GANs for generating synthetic mammographic lesions. This has proven to provide realistic data augmentation for subsequent lesion detection CAD systems. Here is an example of real and fake (synthetic) lesion.
 
 ![Image](real.png){:height="100px"}
-![Image](fake.png){{:height="100px"}
+![Image](fake.png){:height="100px"}
 
 ## Lesion Detection in Mammography
 We have proposed several architetures based on deep learning for the detection of lesions in X-ray mammopgrahy and have tested them in different datasets, to experiment transfer learning and adaptation capabilities. 
