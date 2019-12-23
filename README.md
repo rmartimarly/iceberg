@@ -1,3 +1,7 @@
+---
+layout: page
+title: home
+---
 
 ![Image](iceberg_logo.png)
 
