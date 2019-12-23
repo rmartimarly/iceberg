@@ -1,9 +1,16 @@
+
+![Image](iceberg_logo.png)
+
 ## Welcome to the ICEBERG Project Web page
 
 **ICEBERG**: Image Computing for Enhancing Breast Cancer Radiomics
-**Project reference**: RTI2018-096333-B-I00
+
+**Project reference**: RTI2018-096333-B-I00 Spanish 
+
 **Project Leader**: Robert Martí Marly
+
 **Budget**: 150.040€
+
 **Duration**: 2019-2021
 
 ABSTRACT
@@ -20,7 +27,7 @@ To develop novel radiomic features based on the analysis of breast images taking
 
 Although the main research team is from the University of Girona, to develop the ICEBERG project we have put together a multidisciplinary team of experts in computer vision and image analysis, oncology and radiology from Spanish and international research centers and hospitals.
 
-![Image](src)
+![Image](iceberg_idea.png)
 
 #Publications
 
