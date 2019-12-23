@@ -1,2 +1,3 @@
+![Image](iceberg_logo.png)
 
-Here are the partners of the project
+## Partners of the project
