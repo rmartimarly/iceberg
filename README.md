@@ -13,7 +13,7 @@
 
 **Duration**: 2019-2021
 
-ABSTRACT
+**ABSTRACT**
 Breast cancer screening has had a major impact on reducing mortality. In breast screening programmes, standard mammography (MG) is the most commonly used modality to diagnose breast cancer, although in certain patients other modalities such as magnetic resonance imaging (MRI) or ultrasound (US) provide complimentary information.
 Absolute certainty about a breast cancer finding is obtained by performing a biopsy. This biopsy sample is analysed by pathologists in order to assess tumour type, growth, grading, aggressiveness and other clinical data that will be used not only for the diagnosis but also to define the most adequate treatment.
 It is widely accepted that breast cancer treatment not only depends on the stage at which the cancer has been detected but also on its molecular structure, being some cancers more aggressive than others. For instance the triple negative breast cancer (TNBC) is one of the most aggressive for which is also difficult to find an effective treatment. There is also early evidence that imaging features could provide significant information to discriminate molecular sub-types.
@@ -29,10 +29,17 @@ Although the main research team is from the University of Girona, to develop the
 
 ![Image](iceberg_idea.png)
 
-#Publications
 
-##Journals
+# Results
 
-##Conferences
-#PhD thesis
+## Synthetic Lesion Generation in Mammography
+
+# Publications
+
+## Journals
+- R. Agarwal, O.Diaz, X.Lladó, M.H. Yap, R. Martí [Automatic mass detection in mammograms using deep convolutional neural networks] (https://doi.org/10.1117/1.JMI.6.3.031409) J. Med. Imag. 6(3) 031409, 2019.
+ 
+## Conferences
+- [SPIE19] B. Alyafi, O. Díaz, R. Martí, [DCGANs for Realistic Breast Mass Augmentation in X-ray Mammography SPIE Medical Imaging](https://arxiv.org/pdf/1909.02062.pdf), Houston, 2019.
+# PhD thesis
 
