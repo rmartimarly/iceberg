@@ -52,8 +52,20 @@ We have developed a fully automatic method for corresponding lesions (or any oth
 # Publications
 
 ## Journals
-- R. Agarwal, O.Diaz, X.Lladó, M.H. Yap, R. Martí [Automatic mass detection in mammograms using deep convolutional neural networks](https://doi.org/10.1117/1.JMI.6.3.031409) J. Med. Imag. 6(3) 031409, 2019.
+- [AIIM20] Moi Hoon Yap, Manu Goyal, Fatima Osman, Marti Robert, Erika Denton, Arne Juette, Reyer Zwiggelaar Breast Ultrasound Region of Interest Detection and Lesion Localisation. Artificial Intelligence in Medicine (accepted), 2020. [IF 3.574, Q1 (5/26) MI]
+
+-[CBM20a] Richa Agarwal, Oliver Díaz, Moi Hoon Yap, Xavier Lladó, Robert Martí Deep learning for mass detection in Full Field Digital Mammograms. Computers in Biology and Medicine, 121, 103774, 2020. [IF 2.79, Q2]
+
+- [JMI19] R. Agarwal, O.Diaz, X.Lladó, M.H. Yap, R. Martí [Automatic mass detection in mammograms using deep convolutional neural networks](https://doi.org/10.1117/1.JMI.6.3.031409) J. Med. Imag. 6(3) 031409, 2019.
+
  
 ## Conferences
+- [IWBI20a] B. Alyafi, O. Díaz, JC. Vilanova, J. del Riego, R. Martí, Quality analysis of DCGAN-generated mammography lesions International Workshop on Breast Imaging, Leuven, 2020.
+
+- [IWBI20b] E. García, Y. Díez, A. Oliver, N. Karssemeijer, J. Martí, R. Martí, and O. Díaz Evaluation of elastic parameters for breast compression using a MRI-mammography registration approach International Workshop on Breast Imaging, Leuven, 2020.
+
+- [IWBI20c] E. García, C. Fedon, M. Caballo, R. Martí, I. Sechopoulos, and O. Díaz Realistic compressed breast phantoms for medical physics applications International Workshop on Breast Imaging, Leuven, 2020.
+
 - [SPIE19] B. Alyafi, O. Díaz, R. Martí, [DCGANs for Realistic Breast Mass Augmentation in X-ray Mammography SPIE Medical Imaging](https://arxiv.org/pdf/1909.02062.pdf), Houston, 2019.
+
 
