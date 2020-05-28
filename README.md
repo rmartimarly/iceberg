@@ -54,7 +54,7 @@ We have developed a fully automatic method for corresponding lesions (or any oth
 ## Journals
 - [AIIM20] Moi Hoon Yap, Manu Goyal, Fatima Osman, Marti Robert, Erika Denton, Arne Juette, Reyer Zwiggelaar Breast Ultrasound Region of Interest Detection and Lesion Localisation. Artificial Intelligence in Medicine (accepted), 2020. [IF 3.574, Q1 (5/26) MI]
 
--[CBM20a] Richa Agarwal, Oliver Díaz, Moi Hoon Yap, Xavier Lladó, Robert Martí Deep learning for mass detection in Full Field Digital Mammograms. Computers in Biology and Medicine, 121, 103774, 2020. [IF 2.79, Q2]
+- [CBM20a] Richa Agarwal, Oliver Díaz, Moi Hoon Yap, Xavier Lladó, Robert Martí Deep learning for mass detection in Full Field Digital Mammograms. Computers in Biology and Medicine, 121, 103774, 2020. [IF 2.79, Q2]
 
 - [JMI19] R. Agarwal, O.Diaz, X.Lladó, M.H. Yap, R. Martí [Automatic mass detection in mammograms using deep convolutional neural networks](https://doi.org/10.1117/1.JMI.6.3.031409) J. Med. Imag. 6(3) 031409, 2019.
 
