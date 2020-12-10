@@ -40,7 +40,7 @@ We use GANs for generating synthetic mammographic lesions. This has proven to pr
 ![Image](fake.png)
 
 ## Lesion Detection in Mammography
-We have proposed several architetures based on deep learning for the detection of lesions in X-ray mammopgrahy and have tested them in different datasets, to experiment transfer learning and adaptation capabilities. 
+We have proposed several architectures based on deep learning for the detection of lesions in X-ray mammopgrahy and have tested them in different datasets, to experiment transfer learning and adaptation capabilities. 
 
 ![Image](detection.png)
 
@@ -48,6 +48,12 @@ We have proposed several architetures based on deep learning for the detection o
 We have developed a fully automatic method for corresponding lesions (or any other interesting tissue) in breast 3D MRI and X-ray (2D) mammography. This can be very useful for multi-modal lesion correspondence, lesion simulation and creating phantoms for virtual clinical trials (VCT).  
 
 ![Image](2d_3d.png)
+
+## MRI lesion detection & segmentation in DCE-MRI
+We have developed a framework for the segmentation and detection of lesions based on U-Net networks. Main contributions are the evaluation of different aspects such as input volumes, patch sizes and sampling and U-net configurations.  
+
+![Image](MRI_segmentation.png)
+
 
 # Publications
 
