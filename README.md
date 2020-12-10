@@ -60,6 +60,8 @@ We have developed a fully automatic method for corresponding lesions (or any oth
 
  
 ## Conferences
+- [AIHA20] Roa'A Khaled, Joel Vidal and Robert Martí Deep Learning Based Segmentation of Breast Lesions in DCE-MRI Workshop on Artificial Intelligence for Healthcare Applications, ICPR 2020. LNCS.
+
 - [IWBI20a] B. Alyafi, O. Díaz, JC. Vilanova, J. del Riego, R. Martí, Quality analysis of DCGAN-generated mammography lesions International Workshop on Breast Imaging, Leuven, 2020.
 
 - [IWBI20b] E. García, Y. Díez, A. Oliver, N. Karssemeijer, J. Martí, R. Martí, and O. Díaz Evaluation of elastic parameters for breast compression using a MRI-mammography registration approach International Workshop on Breast Imaging, Leuven, 2020.
