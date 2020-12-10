@@ -52,7 +52,7 @@ We have developed a fully automatic method for corresponding lesions (or any oth
 ## MRI lesion detection & segmentation in DCE-MRI
 We have developed a framework for the segmentation and detection of lesions based on U-Net networks. Main contributions are the evaluation of different aspects such as input volumes, patch sizes and sampling and U-net configurations.  
 
-![Image](MRI_segmentation.png)
+![Image](mri_segmentation.png)
 
 
 # Publications
