@@ -59,11 +59,11 @@ We have developed a framework for the segmentation and detection of lesions base
 
 ## Journals
 
--[CBM22] R. Khaled, J. Vidal, JC. Vilanova, R. Martí A U-Net Ensemble for Breast Lesion Segmentation in DCE MRI,. Computers in Biology and Medicine, 140,105093, 2022. [IF 6.698 , Q1, 6/57 MATHEMATICAL & COMPUTATIONAL BIOLOGY]
+- [CBM22] R. Khaled, J. Vidal, JC. Vilanova, R. Martí A U-Net Ensemble for Breast Lesion Segmentation in DCE MRI,. Computers in Biology and Medicine, 140,105093, 2022. [IF 6.698 , Q1, 6/57 MATHEMATICAL & COMPUTATIONAL BIOLOGY]
 
--[NATMI21] Jungkyu Park, Yoel Shoshan, Robert Martí, Pablo Gómez del Campo, Vadim Ratner, Daniel Khapun, Aviad Zlotnick, Ella Barkan, Flora Gilboa-Solomon, Jakub Chledowski, Jan Witowski, Alexandra Millet, Eric Kim, Alana Lewin, Kristine Pysarenko, Sardius Chen, Julia Goldberg, Shalin Patel, Anastasia Plaunova, Melanie Wegener, Stacey Wolfson, Jiyon Lee, Sana Hava, Sindhoora Murthy, Linda Du, Sushma Gaddam, Ujas Parikh, Laura Heacock, Linda Moy, Beatriu Reig, Michal Rosen-Zvi and Krzysztof J Geras Lessons from the first DBTex Challenge,. Nature Machine Intelligence, 3, pages735–736 (2021) [IF 15.508, Q1, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE ]
+- [NATMI21] Jungkyu Park, Yoel Shoshan, Robert Martí, Pablo Gómez del Campo, Vadim Ratner, Daniel Khapun, Aviad Zlotnick, Ella Barkan, Flora Gilboa-Solomon, Jakub Chledowski, Jan Witowski, Alexandra Millet, Eric Kim, Alana Lewin, Kristine Pysarenko, Sardius Chen, Julia Goldberg, Shalin Patel, Anastasia Plaunova, Melanie Wegener, Stacey Wolfson, Jiyon Lee, Sana Hava, Sindhoora Murthy, Linda Du, Sushma Gaddam, Ujas Parikh, Laura Heacock, Linda Moy, Beatriu Reig, Michal Rosen-Zvi and Krzysztof J Geras Lessons from the first DBTex Challenge,. Nature Machine Intelligence, 3, pages735–736 (2021) [IF 15.508, Q1, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE ]
 
--[RAD21] O.Díaz, A.Rodríguez-Ruiz, A.Gubern-Mérida, R.Martí and M.Chevalier ¿Son los sistemas de inteligencia artificial una herramienta útil para los programas de cribado de cáncer de mama? . Radiología (SERAM), Volume 63, Issue 3, May–June 2021, Pages 236-244. [IF --]
+- [RAD21] O.Díaz, A.Rodríguez-Ruiz, A.Gubern-Mérida, R.Martí and M.Chevalier ¿Son los sistemas de inteligencia artificial una herramienta útil para los programas de cribado de cáncer de mama? . Radiología (SERAM), Volume 63, Issue 3, May–June 2021, Pages 236-244. [IF --]
 
 - [AIIM20] Moi Hoon Yap, Manu Goyal, Fatima Osman, Marti Robert, Erika Denton, Arne Juette, Reyer Zwiggelaar Breast Ultrasound Region of Interest Detection and Lesion Localisation. Artificial Intelligence in Medicine (accepted), 2020. [IF 3.574, Q1 (5/26) MI]
 
