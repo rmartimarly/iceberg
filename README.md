@@ -59,7 +59,7 @@ We have developed a framework for the segmentation and detection of lesions base
 
 ## Journals
 
-- [CBM21] R. Khaled, J. Vidal, JC. Vilanova, R. Martí A U-Net Ensemble for Breast Lesion Segmentation in DCE MRI,. Computers in Biology and Medicine (Accepted)(2021) [IF 4.589 , Q1, 7/58 MATHEMATICAL & COMPUTATIONAL BIOLOGY]
+-[CBM22] R. Khaled, J. Vidal, JC. Vilanova, R. Martí A U-Net Ensemble for Breast Lesion Segmentation in DCE MRI,. Computers in Biology and Medicine, 140,105093, 2022. [IF 6.698 , Q1, 6/57 MATHEMATICAL & COMPUTATIONAL BIOLOGY]
 
 -[NATMI21] Jungkyu Park, Yoel Shoshan, Robert Martí, Pablo Gómez del Campo, Vadim Ratner, Daniel Khapun, Aviad Zlotnick, Ella Barkan, Flora Gilboa-Solomon, Jakub Chledowski, Jan Witowski, Alexandra Millet, Eric Kim, Alana Lewin, Kristine Pysarenko, Sardius Chen, Julia Goldberg, Shalin Patel, Anastasia Plaunova, Melanie Wegener, Stacey Wolfson, Jiyon Lee, Sana Hava, Sindhoora Murthy, Linda Du, Sushma Gaddam, Ujas Parikh, Laura Heacock, Linda Moy, Beatriu Reig, Michal Rosen-Zvi and Krzysztof J Geras Lessons from the first DBTex Challenge,. Nature Machine Intelligence, 3, pages735–736 (2021) [IF 15.508, Q1, COMPUTER SCIENCE, ARTIFICIAL INTELLIGENCE ]
 
@@ -71,9 +71,16 @@ We have developed a framework for the segmentation and detection of lesions base
 
 - [JMI19] R. Agarwal, O.Diaz, X.Lladó, M.H. Yap, R. Martí [Automatic mass detection in mammograms using deep convolutional neural networks](https://doi.org/10.1117/1.JMI.6.3.031409) J. Med. Imag. 6(3) 031409, 2019.
 
+## Book Chapters
+- [AIM21] Agarwal R., Yap M.H., Hasan M.K., Zwiggelaar R., Martí R. Deep Learning in Mammography Breast Cancer Detection. In: Lidströmer N., Ashrafian H. (eds) Artificial Intelligence in Medicine. Springer, Cham. https://doi.org/10.1007/978-3-030-58080-3_157-1.
  
 ## Conferences
 
+- [IWBI22a] J Vidal, R Martí Using deep learning for triple-negative breast cancer classification in DCE-MRI 16th International Workshop on Breast Imaging (IWBI2022) 12286, 222-227, 2022
+
+- [IWBI22b] E García, R Martí, J Martí, J del Riego, C Aynes, A Oliver, O Diaz Simultaneous pectoral muscle and nipple location in MLO mammograms, considering image quality assumptions 16th International Workshop on Breast Imaging (IWBI2022) 12286, 83-89 2022
+
+- [IWBI22c] R Martí, PG del Campo, J Vidal, X Cufí, J Martí, M Chevalier, J Freixenet Lesion detection in digital breast tomosynthesis: method, experiences and results of participating to the DBTex challenge 16th International Workshop on Breast Imaging (IWBI2022) 12286, 216-221, 2022
 
 - [AIHA20] Roa'A Khaled, Joel Vidal and Robert Martí Deep Learning Based Segmentation of Breast Lesions in DCE-MRI Workshop on Artificial Intelligence for Healthcare Applications, ICPR 2020. LNCS.
 
